@@ -1,33 +1,6 @@
-import fetch from "node-fetch";
-
 export default async function handler(req, res) {
   try {
     const { question } = req.body;
-
-    // Load your knowledge JSON
-    const kbUrl = process.env.KNOWLEDGE_BASE_URL;
-    let kb = [];
-    if (kbUrl) {
-      try {
-        kb = await (await fetch(kbUrl)).json();
-      } catch {}
-    }
-    const context = kb
-      .slice(0, 12)
-      .map((d, i) => `[${i + 1}] ${d.title}\n${d.text}`)
-      .join("\n\n");
-
-    const system = `
-You are MC, a small butterfly assistant on Masha's portfolio.
-Tone: warm, brief, specific, not hype. Stick to Masha and her work. If unsure, say so and ask a short follow-up.
-Use the context below when helpful.
-
-Context:
-${context || "(no extra context loaded)"}
-`.trim();
-
-    // For free option, we'll use a simple response system
-    // You can replace this with Google Gemini API (free tier) later
     const userQuestion = question || "Say hello briefly.";
     
     // Simple response logic based on common questions
