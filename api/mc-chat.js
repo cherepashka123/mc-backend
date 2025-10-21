@@ -1,8 +1,8 @@
 import fetch from "node-fetch";
 
-export const handler = async (event) => {
+export default async function handler(req, res) {
   try {
-    const { question } = JSON.parse(event.body || "{}");
+    const { question } = req.body;
 
     // Load your knowledge JSON
     const kbUrl = process.env.KNOWLEDGE_BASE_URL;
@@ -31,7 +31,7 @@ ${context || "(no extra context loaded)"}
       { role: "user", content: question || "Say hello briefly." },
     ];
 
-    const resp = await fetch("https://api.openai.com/v1/chat/completions", {
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
         Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
@@ -45,19 +45,12 @@ ${context || "(no extra context loaded)"}
       }),
     });
 
-    const data = await resp.json();
+    const data = await response.json();
     const answer =
       data.choices?.[0]?.message?.content?.trim() || "I'm not sure yet.";
 
-    return {
-      statusCode: 200,
-      headers: {
-        "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
-      },
-      body: JSON.stringify({ answer }),
-    };
+    res.status(200).json({ answer });
   } catch (err) {
-    return { statusCode: 500, body: JSON.stringify({ error: "Server error" }) };
+    res.status(500).json({ error: "Server error" });
   }
-};
+}
