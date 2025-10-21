@@ -26,28 +26,28 @@ Context:
 ${context || "(no extra context loaded)"}
 `.trim();
 
-    const messages = [
-      { role: "system", content: system },
-      { role: "user", content: question || "Say hello briefly." },
-    ];
-
-    const response = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        model: "gpt-4o-mini",
-        messages,
-        temperature: 0.6,
-        max_tokens: 300,
-      }),
-    });
-
-    const data = await response.json();
-    const answer =
-      data.choices?.[0]?.message?.content?.trim() || "I'm not sure yet.";
+    // For free option, we'll use a simple response system
+    // You can replace this with Google Gemini API (free tier) later
+    const userQuestion = question || "Say hello briefly.";
+    
+    // Simple response logic based on common questions
+    let answer = "I'm not sure yet.";
+    
+    if (userQuestion.toLowerCase().includes("hello") || userQuestion.toLowerCase().includes("hi")) {
+      answer = "Hi! I'm MC, Masha's butterfly assistant! 🦋 Ask me about her work, education, or projects!";
+    } else if (userQuestion.toLowerCase().includes("who") && userQuestion.toLowerCase().includes("masha")) {
+      answer = "Masha (Mariia Cherep) is a Psychology student at NYU with minors in Business, Social Entrepreneurship & Philosophy. She's the co-founder of Threadress and has experience at DRESSX!";
+    } else if (userQuestion.toLowerCase().includes("threadress")) {
+      answer = "Threadress is Masha's startup that connects real-time boutique inventory to shoppers! It bridges online search and in-store retail experiences. Check it out at threadress.it.com!";
+    } else if (userQuestion.toLowerCase().includes("education") || userQuestion.toLowerCase().includes("school")) {
+      answer = "Masha is studying Psychology at NYU (expected graduation May 2026) with a 3.85 GPA. She also went to Blair Academy for high school with a perfect 4.0 GPA!";
+    } else if (userQuestion.toLowerCase().includes("work") || userQuestion.toLowerCase().includes("experience")) {
+      answer = "Masha has worked at DRESSX (Sustainability & Marketing roles), DevolaTech (Growth Analyst), and Dragon Capital (Investment Banking). She's also in the Rise accelerator by Barclays!";
+    } else if (userQuestion.toLowerCase().includes("skills")) {
+      answer = "Masha knows Python, Figma, SPSS, Node.js, and speaks Ukrainian, Russian, and French! She's into fashion tech, DJing, and philosophy of AI.";
+    } else {
+      answer = "That's interesting! I'm still learning about Masha's work. Could you ask me something more specific about her education, projects, or experience?";
+    }
 
     res.status(200).json({ answer });
   } catch (err) {
