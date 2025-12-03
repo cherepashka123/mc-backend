@@ -1,15 +1,15 @@
 [
   {
     "title": "Personal Information",
-    "text": "Mariia Cherep (also known as Masha) - New York, NY | (203) 571-7354 | mc9271@nyu.edu. Originally from Kyiv, Ukraine. Moved to the United States for boarding school in New Jersey during junior year of high school. Relocated entirely to the US due to educational pursuits and the war in Ukraine (since 2022)."
+    "text": "Mariia Cherep (also known as Masha) - New York, NY | (203) 571-7354 | mc9271@nyu.edu. Originally from Kyiv, Ukraine. Moved to the United States for boarding school in New Jersey during junior year of high school. Having lived in Ukraine for most of my life, relocated entirely to the US due to both educational pursuits and the war in Ukraine (since 2022). Brother and mother moved shortly after as well, while father remains in Ukraine."
   },
   {
     "title": "Education - NYU",
-    "text": "New York University, New York, NY - Bachelor of Arts in Psychology, Minors in Business, Social Entrepreneurship & Philosophy, Expected May 2026. GPA: 3.85/4.00. Relevant Coursework: Tech Product Management, Digital Business Strategy, Statistics with Python, Generative AI in Business, Social Entrepreneurship. Activities/clubs: Luxury & Retail Association, Stern Founders Challenge Society, Business-Technology-Entrepreneurship Pitch Finalist."
+    "text": "New York University, New York, NY - Bachelor of Arts in Psychology, Minors in Business, Tech Entrepreneurship & Philosophy, Expected May 2026. GPA: 3.90/4.00. Relevant Coursework: Gen AI in Business, Tech-Product Management, Digital Business Strategy, Statistics+Python, Principles of Data Science. Activities/clubs: Luxury & Retail Association, Stern Founders Challenge Society, Business-Technology-Entrepreneurship Pitch Finalist."
   },
   {
     "title": "Education - Blair Academy",
-    "text": "Blair Academy, Blairstown, NJ - High School Diploma, August 2020 – May 2022. GPA: 4.00/4.00. Coursework: Microeconomics, Calculus, Psychology, French."
+    "text": "Blair Academy, Blairstown, NJ - High School Diploma, August 2020 – May 2022. GPA: 4.00/4.00. Activities/Honors: Co-president of Entrepreneurship Club, Campus Manager, Squash Team Manager, Model UN."
   },
   {
     "title": "DRESSX - Sustainability & Reporting Analyst",
@@ -20,8 +20,8 @@
     "text": "DRESSX, Los Angeles, CA - Marketing & Strategy Intern, May 2024 – January 2025. Led influencer outreach and partnerships for the Roblox x Charles & Keith campaign, coordinating with 100+ creators across TikTok and YouTube. Facilitated strategic initiatives to strengthen DRESSX's presence in the Bitmoji Fashion Marketplace, engaging Snapchat's 250M+ daily Bitmoji users. Executed targeted influencer activations, driving engagement and contributing to increased user adoption of the DRESSX Generative AI styling tool."
   },
   {
-    "title": "Threadress - Co-Founder",
-    "text": "Threadress (threadress.it.com), New York, NY - Co-Founder, March 2025-Present. Built an innovative platform connecting real-time boutique inventory to shoppers with reserve and prepay pickup options - seamlessly bridging online search and in-store retail experiences. Launched a functional prototype featuring real-time boutique inventory search, natural-language queries, and advanced vector search capabilities. Led comprehensive customer discovery with 50+ NYC boutiques, uncovering system preferences (Square vs Shopify) to guide strategic integration planning. Threadress emerged from personal struggle to find specific items, spending hours searching only to discover nothing similar. Despite recent developments, search engines like Google still prioritize sponsored brands over genuinely tailored fashion recommendations based on user intent. With the emergence of powerful AI tools, successfully built the first MVP and are now focused on scaling impact."
+    "title": "Threadress - Founder",
+    "text": "Threadress (threadress.it.com), New York, NY - Founder, March 2025 – Present. Developed a product-matching engine using multimodal embeddings & vector retrieval, translating shopper intent into in-stock results. Conducted discovery with 50+ boutiques to shape POS integration (Square vs. Shopify) and validate operational needs for early adoption. Currently prototyping a virtual try-on system using MediaPipe and body-landmark detection to preview boutique pieces on shoppers."
   },
   {
     "title": "DevolaTech - Growth Analyst & Sales Associate",
@@ -33,7 +33,11 @@
   },
   {
     "title": "Rise Accelerator by Barclays",
-    "text": "Rise, created by Barclays, New York, NY - Accelerator Participant, September 2024 – Present. Selected for a competitive fintech accelerator program, refining MVP and product-market fit for a consumer retail payments startup through intensive workshops. Performed comprehensive competitive analysis through client-facing surveys with 300+ users and 30+ retailers, uncovering significant value gaps in physical retail payments. Leveraged design thinking methodologies to optimize user journey and delivered a finalist pitch at NYU Stern's startup showcase with 100+ attendees."
+    "text": "Rise, created by Barclays, New York, NY - Accelerator Participant, September 2024 – September 2025. Selected for a competitive fintech accelerator program, refining MVP and product-market fit for a consumer retail payments startup through intensive workshops. Performed comprehensive competitive analysis through client-facing surveys with 300+ users and 30+ retailers, uncovering significant value gaps in physical retail payments. Leveraged design thinking methodologies to optimize user journey and delivered a finalist pitch at NYU Stern's startup showcase with 100+ attendees."
+  },
+  {
+    "title": "NYU Stern AI Fintech Hackathon - Winner",
+    "text": "NYU Stern AI Fintech Hackathon, New York, NY - Winner, November 2025 – Present. Built NEXUS, a multi-agent macro–micro analysis system during a hackathon, with our team winning 1st place for best end-to-end design. Developed an n8n pipeline using LLM agents and MCP tools to detect macro events (e.g., Fed releases) & map their impacts across sectors."
   },
   {
     "title": "Naked Confidence - Founder",
@@ -41,26 +45,218 @@
   },
   {
     "title": "Languages",
-    "text": "Languages: Ukrainian (Native), Russian (Native), French (Intermediate)"
+    "text": "Languages: Ukrainian (Fluent), Russian (Fluent), French (Intermediate)"
   },
   {
     "title": "Technical Skills",
-    "text": "Technical Skills: Microsoft Office Suite, Figma, SPSS, Python, Git/GitHub, Canva, Jira, Adobe Photoshop, Market Research, Google Analytics, Node.js"
+    "text": "Technical Skills: Microsoft Office Suite, Figma, SPSS, Python, Git/GitHub, Canva, Jira, Adobe Photoshop, Market Research, Google Analytics, n8n"
   },
   {
     "title": "Interests",
-    "text": "Interests: Matcha Culture and Exploration, DJing and Music Production, Fashion Technology, Science Fiction Literature, Interior Design, UI/UX Design, Electronic Dance Music, Travel and Cultural Exploration, Philosophy of Artificial Intelligence, Creative Coding"
+    "text": "Interests: Matcha Hunting, DJing, Fashion Tech, Sci-fi Books, Interior Design, UI/UX, EDM, Traveling, Philosophy of AI, Vibe-coding"
   },
   {
-    "title": "Personal Background & Family",
-    "text": "Strong entrepreneurial spirit and passion for creating innovative solutions through creativity and imagination. Mother previously worked at Bvlgari, providing invaluable insights into fashion and jewelry, followed by experience in M&A that opened eyes to how companies merge, grow, and create value. Father has been in the construction industry for most of his career, which likely influenced passion for building and creating tangible solutions. Brother and mother moved to the US shortly after, while father remains in Ukraine."
+    "title": "Career Goals",
+    "text": "Short-term: Looking for opportunities in product management, marketing, or brand strategy. Long-term: Building innovative solutions at the intersection of technology, fashion, and consumer experience. Industries of interest: Fashion Technology, Retail Tech, AI/ML Applications, Fintech, Consumer Products. Roles of interest: Product Manager, Product Analyst, Technical Product Manager, Founder/Entrepreneur. Available for internships, full-time roles, or consulting opportunities starting May 2026."
+  },
+  {
+    "title": "Work Style & Values",
+    "text": "Thrives in fast-paced, innovative environments. Enjoys collaborative teams and cross-functional work. Passionate about building products that solve real consumer problems. Values: Innovation, User-centric design, Sustainability, Continuous learning, Creative problem-solving. Communication style: Direct, collaborative, and detail-oriented. Values clear communication and feedback loops."
+  },
+  {
+    "title": "Notable Achievements",
+    "text": "NYU Stern AI Fintech Hackathon - 1st Place Winner (November 2025), Business-Technology-Entrepreneurship Pitch Finalist, Rise Accelerator Participant (Barclays)"
+  },
+  {
+    "title": "Learning Goals",
+    "text": "Current focus: Advancing skills in AI/ML applications, product management methodologies, and technical implementation. Areas of interest: LLM agents, Vector databases, Multimodal AI, Product strategy, User research"
   },
   {
     "title": "Threadress Origin Story",
-    "text": "Co-founder Clara and Masha have been discussing building something together since freshman year, but it wasn't until junior year that they actually began development, after establishing the necessary connections and securing the right resources. Threadress emerged from personal struggle to find specific fashion items, spending hours searching only to discover nothing similar. They're committed to changing the paradigm where search engines prioritize sponsored brands over genuinely tailored fashion recommendations."
+    "text": "Threadress emerged from personal struggle to find specific items - spending hours searching helplessly only to discover nothing remotely similar. Despite recent developments, search engines like Google still prioritize sponsored brands and items over genuinely tailored fashion recommendations based on user intent. We're committed to changing this paradigm. With the emergence of powerful AI tools, we successfully built our first MVP and are now focused on scaling our impact. Co-founder Clara and I have been discussing building something together since freshman year, but it wasn't until junior year that we actually began development, after establishing the necessary connections and securing the right resources."
   },
   {
-    "title": "Education & Development",
-    "text": "Pursuing a diverse range of courses including product management, AI integration in business, digital business strategy, philosophy of AI, psychology, data analytics with SPSS and Python, economics, and many other relevant subjects that have significantly contributed to development. Two consecutive summers at DRESSX provided invaluable experience and exposure to how established fashion technology companies operate in dynamic environments, learning directly from industry professionals."
+    "title": "Threadress Problem & Solution",
+    "text": "Problem: Clara and I would spend hours searching for specific fashion items online, only to find nothing remotely similar. Search engines prioritize sponsored brands over genuinely tailored fashion recommendations. Solution: We recognized that with powerful AI tools, we could build a solution that truly understands shopper intent. We started by conducting discovery with 50+ NYC boutiques to understand their pain points - they had beautiful inventory but struggled with discoverability. Technical decision: We chose multimodal embeddings and vector retrieval because we needed to translate natural language queries (like 'flowy summer dress with floral pattern') into actual in-stock products. This required understanding both text descriptions and visual features of garments."
+  },
+  {
+    "title": "Threadress Technical Challenges",
+    "text": "The biggest challenge was integrating with different POS systems. We discovered that boutiques use either Square or Shopify, and each has different APIs and data structures. We had to design our system to be flexible enough to handle both. Current focus: We're now prototyping a virtual try-on system using MediaPipe because we realized that seeing how a piece looks on your body is crucial for boutique shopping. This is especially important since shoppers can't physically try on items before purchasing. Learning: Building Threadress taught me that the best products emerge from deeply understanding both sides of a marketplace - the shoppers' frustrations and the retailers' operational constraints."
+  },
+  {
+    "title": "DRESSX First Summer 2024",
+    "text": "Role: Marketing & Strategy Intern. Key learning: Learned how digital fashion brands think about user acquisition and engagement. The Roblox x Charles & Keith campaign was eye-opening - saw how virtual fashion can drive real-world brand awareness. Challenge: Coordinating with 100+ influencers across TikTok and YouTube required meticulous organization. Each creator had different requirements, timelines, and content styles. Solution: Created a systematic outreach process with clear briefs, deadlines, and deliverables. This structure helped maintain quality while scaling reach. Impact: The campaign significantly increased DRESSX's visibility in the digital fashion space and demonstrated the power of creator partnerships."
+  },
+  {
+    "title": "DRESSX Second Summer 2025",
+    "text": "Role: Sustainability & Reporting Analyst. Transition: Moving from marketing to sustainability reporting was intentional - wanted to understand the environmental impact of digital fashion and how to measure it. Key project: Analyzing 900+ digital garments to quantify the environmental benefits was fascinating. Found that digital fashion reduces waste by 97% compared to physical production, but AI training still has a carbon footprint that needs to be considered. Insight: The Meta Digital Fashion Trends Report revealed that avatar economies are becoming real economies - people are spending real money on digital fashion, and brands need to take this seriously. Platform analysis: Studying Roblox, Snapchat, Zepeto, and Bitmoji showed that each platform has a unique fashion culture. Roblox is more gaming-focused, while Bitmoji is about personal expression. Understanding these nuances is crucial for brand partnerships."
+  },
+  {
+    "title": "NEXUS Hackathon Project",
+    "text": "Problem: Financial markets are complex - macro events (like Fed rate changes) have cascading effects across sectors, but most analysis tools are either too high-level or too granular. Solution: Built NEXUS as a multi-agent system where different AI agents specialize in different aspects: one detects macro events, another analyzes sector impacts, and another provides micro-level stock recommendations. Technical choice: Chose n8n for orchestration because we needed to connect multiple LLM agents and MCP (Model Context Protocol) tools. The visual workflow made it easier to iterate during the hackathon. Winning factor: The judges were impressed by our end-to-end design - we didn't just build a prototype, we thought through the entire user experience from event detection to actionable insights. Learning: This project showed the power of agentic AI systems. Instead of one large model trying to do everything, specialized agents working together can produce better results."
+  },
+  {
+    "title": "DevolaTech Growth Experience",
+    "text": "Challenge: When starting, DevolaTech was primarily focused on one market. Needed to expand but didn't have a systematic approach to identifying new opportunities. Approach: Analyzed market trends and industry dynamics to identify underserved sectors. Looked at factors like tech adoption rates, talent shortages, and economic indicators. Outreach strategy: Developed a personalized outreach approach - instead of generic emails, researched each prospect's specific pain points and tailored the message. This increased response rates significantly. Results: Generating 500+ high-quality leads and 200+ client interactions wasn't just about volume - it was about quality. Focused on companies that were actually good fits for services. Learning: This role taught that growth isn't just about more leads - it's about better targeting, clearer messaging, and understanding your ideal customer profile."
+  },
+  {
+    "title": "Dragon Capital Investment Banking",
+    "text": "Context: This was first exposure to investment banking, right before the 2022 invasion of Ukraine. The work done on Fozzy Group and Ukrenergo took on new significance after the war began. Key learning: Learned how to read financial statements, understand cash flow, and evaluate company health. The P&L analysis for these companies was particularly important given the economic uncertainty. Presentation skills: Creating roadshow decks taught how to tell a financial story. It's not just about numbers - it's about narrative, opportunity, and risk management. Perspective: Working in Ukrainian investment banking gave a unique perspective on emerging markets and how geopolitical events can impact business operations."
+  },
+  {
+    "title": "Naked Confidence Brand Story",
+    "text": "Inspiration: Wanted to create something that carried a memory and embodied a feeling of confidence, which is where the name for the brand originated. Process: Working with 5 industry experts at Ol.factory was incredible - they taught about top notes, middle notes, base notes, and how to create a balanced olfactory pyramid. Market research: Surveying 200+ consumers revealed that people were hungry for unisex options. The feedback shaped not just the scent but the entire brand identity. Lesson: This was first entrepreneurial experience, and it taught that building a brand is about more than just a product - it's about values, story, and connection."
+  },
+  {
+    "title": "Why Psychology Major with Business & Tech Minors",
+    "text": "I believe the best products understand human behavior. Psychology gives insights into how people think and make decisions. Business and Tech Entrepreneurship provide the practical skills to build and scale products. Philosophy, especially Philosophy of AI, helps think critically about the ethical implications of the technology we're building. Together, these disciplines give a holistic view of product development."
+  },
+  {
+    "title": "Moving from Ukraine to US Impact",
+    "text": "Moving to the US opened up opportunities that wouldn't have been available otherwise - access to NYU, internships at companies like DRESSX, and the startup ecosystem in New York. But it also gave a unique perspective. Coming from Ukraine, I've seen how technology can transform economies and how important it is to build products that work across different markets and cultures."
+  },
+  {
+    "title": "What Learned from DRESSX",
+    "text": "DRESSX taught how digital fashion companies operate. In first summer, learned about influencer marketing and creator partnerships at scale. In second summer, shifted to sustainability reporting, which showed how to measure the environmental impact of digital products. Also learned how different platforms (Roblox, Snapchat, Bitmoji) have unique fashion cultures that brands need to understand."
+  },
+  {
+    "title": "Transition from Investment Banking to Tech",
+    "text": "Internship at Dragon Capital gave strong analytical and financial skills, but realized I wanted to build products rather than just analyze them. The transition happened naturally - started taking tech and product management courses, got involved in hackathons, and eventually started building Threadress. The analytical skills from IB are still valuable - use them for market research, competitive analysis, and understanding business models."
+  },
+  {
+    "title": "Biggest Challenge Building Threadress",
+    "text": "The biggest challenge was POS integration. We discovered that boutiques use either Square or Shopify, and each has different APIs and data structures. We had to design our system to be flexible enough to handle both while maintaining real-time inventory accuracy. This required extensive discovery calls with 50+ boutiques to understand their operational needs."
+  },
+  {
+    "title": "Winning NYU Stern AI Fintech Hackathon",
+    "text": "Built NEXUS, a multi-agent system that detects macro economic events (like Fed rate changes) and maps their impacts across sectors. Used n8n to orchestrate LLM agents and MCP tools. What set us apart was our end-to-end design - we didn't just build a prototype, we thought through the entire user experience. The judges were impressed by how we connected macro events to actionable micro-level insights."
+  },
+  {
+    "title": "How Learned to Code",
+    "text": "Started with Python in Statistics course, then took Principles of Data Science. For Threadress, learned what was needed as we built it - multimodal embeddings, vector databases, API integration. Not a computer science major, but believe in learning by doing. When I need to build something, I figure out how to build it."
+  },
+  {
+    "title": "Approach to Learning New Technologies",
+    "text": "Learn best by building projects. When we needed to use MediaPipe for virtual try-on, didn't just read documentation - built a prototype. Also believe in 'vibe-coding' - finding the right environment and mindset that makes learning enjoyable. Whether that's with music, in a coffee shop, or late at night, find what works."
+  },
+  {
+    "title": "Balancing Technical and Business Skills",
+    "text": "Don't see them as separate. Technical skills help understand what's possible and communicate with engineers. Business skills help understand market needs and build products people want. The best product managers can speak both languages. For Threadress, need to understand the technical implementation of the matching engine AND understand how boutiques operate their businesses."
+  },
+  {
+    "title": "What Looking for in Next Role",
+    "text": "Looking for product management roles in fashion tech, retail tech, or AI/ML applications. Want to work at a company that's building innovative solutions at the intersection of technology and consumer experience. Thrive in fast-paced, collaborative environments where can learn from experienced product leaders while contributing unique perspective."
+  },
+  {
+    "title": "Why Product Management",
+    "text": "Product management combines everything I'm passionate about - understanding users, solving problems, working with technology, and building things that matter. Love the cross-functional nature of PM - working with engineering, design, marketing, and sales. It's the perfect role for someone who wants to have impact across the entire product lifecycle."
+  },
+  {
+    "title": "Long-term Career Goal",
+    "text": "Want to build innovative solutions at the intersection of technology, fashion, and consumer experience. Whether that's as a PM at a larger company or continuing to build own products, driven by creating things that solve real problems. Particularly interested in how AI can transform retail and fashion, making it more personalized, sustainable, and accessible."
+  },
+  {
+    "title": "Staying Current with Industry Trends",
+    "text": "Read a lot - tech blogs, fashion industry reports, AI research papers. Active in the NYU startup community and attend hackathons and meetups. Working at DRESSX exposed to digital fashion trends. Building Threadress keeps connected to retail tech. Also take courses - always learning something new, whether it's LLM agents, vector databases, or product strategy."
+  },
+  {
+    "title": "What Problem Threadress Solves",
+    "text": "Threadress connects shoppers with real-time boutique inventory. When you search for 'flowy summer dress with floral pattern,' we use AI to understand your intent and show you actual in-stock items from local boutiques. We're bridging the gap between online search and in-store retail, helping boutiques get discovered while helping shoppers find exactly what they're looking for."
+  },
+  {
+    "title": "How Threadress Product-Matching Engine Works",
+    "text": "We use multimodal embeddings to understand both text descriptions and visual features of garments. When a shopper searches, we convert their query into a vector embedding. We then search our vector database of boutique inventory to find the closest matches. This allows us to understand semantic meaning - 'flowy' and 'airy' are similar concepts, even if the exact words don't match."
+  },
+  {
+    "title": "What's Next for Threadress",
+    "text": "Currently prototyping a virtual try-on system using MediaPipe and body-landmark detection. This will let shoppers see how boutique pieces look on their body before purchasing. Also expanding boutique network and refining POS integrations to support more retailers."
+  },
+  {
+    "title": "Biggest Learning from Building Threadress",
+    "text": "The biggest learning is that the best products emerge from deeply understanding both sides of a marketplace. We spent months talking to boutiques to understand their operational constraints before building anything. This discovery process shaped everything - from our POS integration strategy to our matching algorithm. You can't build a good marketplace product without understanding both the supply and demand sides."
+  },
+  {
+    "title": "Fashion Tech - Digital Fashion Trends",
+    "text": "Digital fashion is becoming a real economy. People are spending real money on virtual garments for their avatars. This isn't just a gaming trend - it's about self-expression and identity in digital spaces. Brands that ignore this are missing a huge opportunity, especially with Gen Z and Gen Alpha who are native to these platforms."
+  },
+  {
+    "title": "Fashion Tech - Sustainability",
+    "text": "Digital fashion has massive environmental benefits - 97% less waste compared to physical production. But we need to be honest about AI's carbon footprint. Training models and running inference still has environmental costs. The industry needs better tools to measure and reduce this impact."
+  },
+  {
+    "title": "Fashion Tech - Avatar Economies",
+    "text": "Each platform (Roblox, Snapchat, Zepeto, Bitmoji) has a unique fashion culture. Roblox is more gaming-focused, while Bitmoji is about personal expression. Brands need to understand these nuances to succeed. A one-size-fits-all approach won't work."
+  },
+  {
+    "title": "Retail Tech - Boutique Discovery",
+    "text": "Small boutiques have beautiful, unique inventory but struggle with discoverability. They can't compete with large retailers on SEO or advertising spend. AI-powered search that understands intent can level the playing field, helping shoppers find exactly what they want while helping boutiques get discovered."
+  },
+  {
+    "title": "Retail Tech - Real-Time Inventory",
+    "text": "The future of retail is real-time inventory visibility. Shoppers want to know what's actually available, not what might be in stock. This requires deep POS integration and real-time data sync, which is technically challenging but essential for trust."
+  },
+  {
+    "title": "Retail Tech - Virtual Try-On",
+    "text": "Virtual try-on is becoming table stakes for online fashion. But current solutions are mostly for large retailers. We need tools that work for smaller boutiques too, using accessible technology like MediaPipe rather than expensive 3D scanning systems."
+  },
+  {
+    "title": "AI/ML - Multimodal AI",
+    "text": "The future of search is multimodal. Text-only search is limiting - fashion is visual. Multimodal embeddings that understand both text and images will transform how people discover products. This is especially powerful for fashion where style, color, and silhouette matter more than keywords."
+  },
+  {
+    "title": "AI/ML - Agentic Systems",
+    "text": "Multi-agent AI systems are more powerful than single large models. Specialized agents working together can produce better results - one agent detects events, another analyzes impacts, another provides recommendations. This is the architecture we used for NEXUS and it's the future of complex AI applications."
+  },
+  {
+    "title": "AI/ML - Vector Databases",
+    "text": "Vector databases are essential for semantic search. Traditional keyword search can't understand intent - 'flowy dress' and 'airy garment' should return similar results. Vector embeddings capture semantic meaning, making search much more intelligent."
+  },
+  {
+    "title": "AI/ML - LLM Agents",
+    "text": "LLM agents are becoming more practical with tools like n8n for orchestration and MCP (Model Context Protocol) for connecting different services. This makes it easier to build complex AI systems without being an ML engineer."
+  },
+  {
+    "title": "Product Management - User Research",
+    "text": "The best products come from deep user research. For Threadress, talked to 50+ boutiques before building anything. This discovery process shaped entire product strategy. You can't build a good product without understanding your users' actual problems and constraints."
+  },
+  {
+    "title": "Product Management - Technical PM",
+    "text": "Technical PMs who can code are becoming more valuable. You don't need to be a software engineer, but understanding how things are built helps you make better decisions, communicate with engineers, and build better products. Technical skills have been crucial for Threadress."
+  },
+  {
+    "title": "Product Management - Marketplace Dynamics",
+    "text": "Building a marketplace requires understanding both sides. You can't optimize for one side at the expense of the other. For Threadress, we need to help shoppers find what they want AND help boutiques get discovered and make sales. This balance is critical."
+  },
+  {
+    "title": "Startup Ecosystem - Accelerators",
+    "text": "Accelerators like Rise (Barclays) are valuable not just for funding but for structure and mentorship. The workshops on product-market fit, user research, and design thinking were incredibly helpful. But the real value is the network and the accountability - having deadlines and deliverables forces you to move faster."
+  },
+  {
+    "title": "Startup Ecosystem - Hackathons",
+    "text": "Hackathons are great for learning new technologies quickly and building something end-to-end. Winning the NYU Stern AI Fintech Hackathon validated our approach to multi-agent systems and gave us confidence in our technical abilities."
+  },
+  {
+    "title": "Startup Ecosystem - Co-Founding",
+    "text": "Finding the right co-founder is crucial. Clara and I had been discussing building something together since freshman year, but we waited until we had the right idea, skills, and resources. The relationship matters more than rushing into something."
+  },
+  {
+    "title": "Decision Making - Choosing Projects",
+    "text": "Evaluate projects based on three criteria: 1) Does it solve a real problem I've experienced? 2) Do I have the skills (or can I learn them) to build it? 3) Is there a clear path to impact? Threadress checked all three boxes - we experienced the problem, we could learn the technical skills, and there was a clear path to helping both shoppers and boutiques."
+  },
+  {
+    "title": "Decision Making - Technical Choices",
+    "text": "Choose technologies based on: 1) What solves the problem best? 2) What can we learn and iterate quickly with? 3) What will scale if we succeed? For Threadress, chose multimodal embeddings because they solve the semantic search problem. Chose vector databases because they're the right tool for the job. Using MediaPipe for virtual try-on because it's accessible and doesn't require expensive 3D scanning."
+  },
+  {
+    "title": "Decision Making - Career Decisions",
+    "text": "Make career decisions based on: 1) Will I learn and grow? 2) Will I have impact? 3) Does it align with my values and interests? Moving from marketing to sustainability at DRESSX was about learning something new. Starting Threadress was about having impact. Choosing product management as a career path aligns with interests in technology, business, and user experience."
+  },
+  {
+    "title": "Decision Making - Learning Priorities",
+    "text": "Prioritize learning based on: 1) What do I need to build what I'm building? 2) What will be valuable long-term? 3) What am I excited about? Learned multimodal embeddings because we needed them for Threadress. Learning LLM agents because they're the future of AI applications. Always learning product management because it's my career path."
+  },
+  {
+    "title": "Decision Making - Problem Solving",
+    "text": "When facing a problem: 1) Understand the root cause (not just symptoms), 2) Research how others have solved it, 3) Prototype a solution quickly, 4) Iterate based on feedback. For Threadress, the root problem wasn't 'bad search' - it was 'search engines prioritize sponsored content over user intent.' The solution wasn't 'better keywords' - it was 'AI that understands semantic meaning.'"
   }
 ]
